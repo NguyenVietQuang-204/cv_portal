@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cv_portal
 # Cổng Thông Tin Việc Làm - Laravel Project  
 
