@@ -9,8 +9,9 @@ Dự án Laravel giúp kết nối nhà tuyển dụng và ứng viên trên n�
 - MySQL  
 - Bootstrap  
 - XAMPP  
-
-## 3. Cài đặt  
+## 3. Sơ đồ chức năng
+- ![Sơ đồ chức năng của trang web](images\chuc_nang.png)
+## 4. Cài đặt  
 ```sh
 git clone <LINK_REPO>
 cd <FOLDER_NAME>
